@@ -183,3 +183,4 @@ Redux 같은 전역 상태관리 라이브러리들이 클라이언트 상태값
 - [React Query 살펴보기](https://maxkim-j.github.io/posts/react-query-preview)
 - [React Query로 서버 상태 관리하기](https://blog.rhostem.com/posts/2021-02-01T00:00:00.000Z)
 - [Why I Stopped Using Redux](https://dev.to/g_abud/why-i-quit-redux-1knl)
+- [CAP 정리](https://ko.wikipedia.org/wiki/CAP_%EC%A0%95%EB%A6%AC)
